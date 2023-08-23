@@ -23,6 +23,4 @@ window.addEventListener('appinstalled', (event) => {
 
     window.deferredPrompt = null
 
-    butInstall.style.display = "none"
-
 });
