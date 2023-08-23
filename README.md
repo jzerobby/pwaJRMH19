@@ -1,4 +1,4 @@
-# 19 Progressive Web Applications (PWA): Text Editor
+# Homework 19 Jzero's PWA Text Editor
 
 ## Description
 
@@ -6,8 +6,10 @@ I build a text editor that runs in the browser. This app will be a single-page a
 
 ## Application Screenshot
 
+![PWA App](client/src/images/PWAapp.jpg)
+
 ## Links
 
-App in Heroku:
+App in Heroku: https://mypwa-texteditor-jrm19-a16fbcb00e01.herokuapp.com/
 
 Repo in Github: https://github.com/jzerobby/pwaJRMH19
